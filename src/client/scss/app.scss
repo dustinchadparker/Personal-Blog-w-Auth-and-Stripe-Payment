@@ -1,0 +1,17 @@
+$theme-colors: (
+  "primary": rgb(255, 107, 107),
+  "secondary": rgb(172, 16, 16),
+  "danger": rgb(105, 0, 0),
+  "success": rgb(255, 255, 255),
+  "warning": rgb(123, 255, 70)
+);
+
+.bg-red {
+  background-color: red;
+}
+
+label {
+    color: white;
+}
+
+@import "../../../node_modules/bootstrap/scss/bootstrap.scss";

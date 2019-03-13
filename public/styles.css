@@ -1,0 +1,59 @@
+/* section:hover {
+  background-color: rgb(149, 193, 235, 0.3);
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+section {
+  box-shadow: 1px 1px 20px 2px rgb(204, 204, 204) inset;
+  background-color: rgb(85, 1, 1);
+  color: white;
+  justify-content: space-between;
+  padding: 5px;
+  
+
+}
+*/
+
+
+body {
+  background-image: url("./MOON.jpg");
+}
+
+
+/*
+button:hover {
+    background-color: #ffffff;
+    color: black;
+    border: 2px solid #55cbe9;
+  }
+  
+  .btn-danger {
+    cursor: pointer;
+    position: relative;
+    border-radius: 5px;
+  }
+  
+  .deletetooltip {
+    visibility: hidden;
+    width: 60px;
+    background-color: black;
+    box-shadow: 1px 1px 20px 2px rgb(255, 255, 255) inset;
+    color: white;
+    text-align: center;
+    padding: 0px 0;
+    border-radius: 3px;
+    bottom: 110%;
+    left: -40%;
+    margin-left: 0px;
+    position: absolute;
+    z-index: 2;
+  }
+  
+  .btn-danger:hover .deletetooltip {
+    visibility: visible;
+  }
+
+  .row {
+      color: white;
+  } */
